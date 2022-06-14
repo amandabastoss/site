@@ -1,0 +1,51 @@
+body {
+     font-family: Franklin Gothic;
+     background-image: url(../imagens/fundo1.png);
+     background-attachment: fixed;
+     background-size: 100%;
+}
+
+div {
+     text-align: center;
+     align-items: center;
+     margin: auto;
+     color: white;
+     font-size: 22px;
+     line-height: 20px;
+     padding-bottom: 30px;
+     margin-left: 20%;
+     margin-right: 20%;
+
+}
+
+h1 {
+
+     color: darkgrey;
+     font-size: 50px;
+}
+
+figure {
+     color: darkgrey;
+
+}
+
+p {
+     text-align: justify;
+     text-indent: 15px;
+     margin: 10px;
+}
+
+
+strong {
+     color: darkgray
+}
+
+h2 {
+
+     color: darkgray;
+     font-size: 40px;
+}
+
+ul {
+     text-align: justify;
+}
