@@ -3,6 +3,7 @@ body {
      background-image: url(../imagens/fundo1.png);
      background-attachment: fixed;
      background-size: 100%;
+     background: no-repeat;
 }
 
 div {
@@ -13,15 +14,15 @@ div {
      font-size: 22px;
      line-height: 20px;
      padding-bottom: 30px;
-     margin-left: 20%;
-     margin-right: 20%;
+     margin-left: 15%;
+     margin-right: 15%;
 
 }
 
 h1 {
 
      color: darkgrey;
-     font-size: 50px;
+     font-size: 40px;
 }
 
 figure {
