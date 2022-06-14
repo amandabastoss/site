@@ -3,7 +3,7 @@ body {
      background-image: url(../imagens/fundo1.png);
      background-attachment: fixed;
      background-size: 100%;
-     background: no-repeat;
+     margin: auto;
 }
 
 div {
